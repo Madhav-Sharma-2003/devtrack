@@ -1,0 +1,14 @@
+# DevTrack
+
+DevTrack is a Python-Based personal learning and progress tracker.
+
+This project is  being built step by step to learn :
+
+- Python Fundamentals
+- Git & GitHub
+- Project Structure
+- Backend Development(later)
+- APIs and authentication (later)
+
+Current Status:
+- Day 1 : Project Initialized with basic structure
