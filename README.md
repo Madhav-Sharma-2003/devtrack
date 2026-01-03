@@ -12,3 +12,4 @@ This project is  being built step by step to learn :
 
 Current Status:
 - Day 1 : Project Initialized with basic structure
+- Day 2: Added JSON-based data storage and topic display
