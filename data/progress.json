@@ -1,5 +1,12 @@
 {
     "topics": [
-        "Python Functions"
+        {
+            "name": "Python Loops",
+            "status": "completed"
+        },
+        {
+            "name": "Git Basics",
+            "status": "pending"
+        }
     ]
 }

@@ -14,3 +14,5 @@ Current Status:
 - Day 1 : Project Initialized with basic structure
 - Day 2: Added JSON-based data storage and topic display
 - Day 3: Implemented CLI menu to add and view learning topics with persistent storage
+- Day 4: Added topic status (pending/completed) and progress percentage tracking
+
