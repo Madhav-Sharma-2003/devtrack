@@ -15,4 +15,5 @@ Current Status:
 - Day 2: Added JSON-based data storage and topic display
 - Day 3: Implemented CLI menu to add and view learning topics with persistent storage
 - Day 4: Added topic status (pending/completed) and progress percentage tracking
+- Day 5: Implemented edit and delete functionality (full CRUD support)
 
